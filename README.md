@@ -1,4 +1,4 @@
-# Online-Estate-Services-System
+# BPCL | Online-Estate-Services-System
 System designed for the estate department of an organisation/ society etc which makes work quite simple and saves paper or registers which are used for registering complaints of different departments.  Implemented using .NET Technology
 Deparments considered here are:
 Computer
@@ -18,3 +18,19 @@ After submitting the complaint user receive an complaint number, and acknowledge
 After the complaint is resolved the status is changed to closed and acknowledgment is sent to user for notifing the same.
 
 But if Demand then user can make demands / requirments request to dept finicial manager, who first see and decides if the reqirement is under the departmental budget, if so gives approval and request is forwarded to marketing manager who makes a purchase request.
+
+# Technology Stack
+-> C#
+
+-> ASPX
+
+-> HTML
+
+-> BOOTSTRAP
+# Contributors 
+
+1> Inderjeet Saluja
+
+2> Manisha Udasi
+
+3> Nisha K
